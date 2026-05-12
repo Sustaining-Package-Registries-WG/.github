@@ -1,4 +1,3 @@
-# .github
 # Charter of the Sustaining Package Registries Working Group
 
 **Effective Date:** 3 March 2026
