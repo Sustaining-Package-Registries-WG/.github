@@ -5,6 +5,8 @@ Open source package registries are critical infrastructure for the global softwa
 ## Members
 
 - Alpha-Omega
+- Drupal
+- Homebrew
 - Linux Foundation
 - OpenJS Foundation
 - Open Source Security Foundation (OpenSSF)
